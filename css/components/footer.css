@@ -1,0 +1,29 @@
+.footer {
+  background-color: #343a40;
+/*  height: 200px;*/
+  margin: auto auto;
+  text-align: center;
+  padding: 60px 0;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 20px;
+  margin: 20px auto;
+}
+li i:hover {
+  color: rgb(230, 230, 230);
+}
+li i {
+  font-size: 30px;
+  color: #06d6a0;
+}
+
+p {
+  color: #dee2e6;
+}
+
+ul{
+  padding-left: 0;
+}
+
